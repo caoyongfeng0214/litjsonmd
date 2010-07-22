@@ -1,0 +1,5 @@
+D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\bin\Release\LitJson.dll
+D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\bin\Release\LitJson.pdb
+D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\obj\Release\ResolveAssemblyReference.cache
+D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\obj\Release\LitJson.dll
+D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\obj\Release\LitJson.pdb
