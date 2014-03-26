@@ -1,5 +1,9 @@
-D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\bin\Release\LitJson.dll
-D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\bin\Release\LitJson.pdb
-D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\obj\Release\ResolveAssemblyReference.cache
-D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\obj\Release\LitJson.dll
-D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\obj\Release\LitJson.pdb
+E:\MyDocuments\ASPNET\nooong\LitJSON\bin\Release\LitJSON.dll
+E:\MyDocuments\ASPNET\nooong\LitJSON\bin\Release\LitJSON.pdb
+E:\MyDocuments\ASPNET\nooong\LitJSON\obj\Release\LitJSON.dll
+E:\MyDocuments\ASPNET\nooong\LitJSON\obj\Release\LitJSON.pdb
+E:\MyDocuments\ASPNET\nooong\LitJSON\obj\Release\LitJSON.csprojResolveAssemblyReference.cache
+K:\MyDocuments\ASPNET\nooong\LitJSON\bin\Release\LitJSON.dll
+K:\MyDocuments\ASPNET\nooong\LitJSON\bin\Release\LitJSON.pdb
+K:\MyDocuments\ASPNET\nooong\LitJSON\obj\Release\LitJSON.dll
+K:\MyDocuments\ASPNET\nooong\LitJSON\obj\Release\LitJSON.pdb

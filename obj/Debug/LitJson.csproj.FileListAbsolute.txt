@@ -1,5 +1,9 @@
-D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\bin\Debug\LitJson.dll
-D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\bin\Debug\LitJson.pdb
-D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\obj\Debug\ResolveAssemblyReference.cache
-D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\obj\Debug\LitJson.dll
-D:\WorkRoot\WebSite\WebAPI\trunk\LitJson\obj\Debug\LitJson.pdb
+E:\MyDocuments\ASPNET\nooong\LitJSON\bin\Debug\LitJSON.dll
+E:\MyDocuments\ASPNET\nooong\LitJSON\bin\Debug\LitJSON.pdb
+E:\MyDocuments\ASPNET\nooong\LitJSON\obj\Debug\ResolveAssemblyReference.cache
+E:\MyDocuments\ASPNET\nooong\LitJSON\obj\Debug\LitJSON.dll
+E:\MyDocuments\ASPNET\nooong\LitJSON\obj\Debug\LitJSON.pdb
+K:\MyDocuments\ASPNET\nooong\LitJSON\bin\Debug\LitJSON.dll
+K:\MyDocuments\ASPNET\nooong\LitJSON\bin\Debug\LitJSON.pdb
+K:\MyDocuments\ASPNET\nooong\LitJSON\obj\Debug\LitJSON.dll
+K:\MyDocuments\ASPNET\nooong\LitJSON\obj\Debug\LitJSON.pdb
